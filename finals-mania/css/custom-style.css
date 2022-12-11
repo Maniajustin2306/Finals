@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+.nounderline {
+  text-decoration: none !important
+}
+
+.margin{
+	margin-top: 10px;
+}
+
+.margin-float-center{
+	margin: 10%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.text-size{
+	font-size: 100px;
+}
+
+.text-color:hover{
+	color: #fff;
+}
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 200px;
+	overflow: auto;
+}
+.table-wrapper-scroll-y {
+	display: block;
+}
+
+.text-size-table{
+	font-size: 14px;
+}
+
+.details-pic{
+	height: 50vh;
+	width: 15rem;
+}
+
+
+
